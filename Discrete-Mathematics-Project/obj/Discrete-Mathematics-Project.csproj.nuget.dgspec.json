@@ -1,0 +1,59 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Sadeghi\\Desktop\\My_Project\\Discrete-Mathematics-Project\\Discrete-Mathematics-Project\\Discrete-Mathematics-Project.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Sadeghi\\Desktop\\My_Project\\Discrete-Mathematics-Project\\Discrete-Mathematics-Project\\Discrete-Mathematics-Project.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Sadeghi\\Desktop\\My_Project\\Discrete-Mathematics-Project\\Discrete-Mathematics-Project\\Discrete-Mathematics-Project.csproj",
+        "projectName": "Discrete-Mathematics-Project",
+        "projectPath": "C:\\Users\\Sadeghi\\Desktop\\My_Project\\Discrete-Mathematics-Project\\Discrete-Mathematics-Project\\Discrete-Mathematics-Project.csproj",
+        "packagesPath": "C:\\Users\\Sadeghi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sadeghi\\Desktop\\My_Project\\Discrete-Mathematics-Project\\Discrete-Mathematics-Project\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Sadeghi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+C:\Users\Sadeghi\Desktop\My_Project\Discrete-Mathematics-Project\Discrete-Mathematics-Project\bin\Debug\netcoreapp2.1\Discrete-Mathematics-Project.deps.json
+C:\Users\Sadeghi\Desktop\My_Project\Discrete-Mathematics-Project\Discrete-Mathematics-Project\bin\Debug\netcoreapp2.1\Discrete-Mathematics-Project.runtimeconfig.json
+C:\Users\Sadeghi\Desktop\My_Project\Discrete-Mathematics-Project\Discrete-Mathematics-Project\bin\Debug\netcoreapp2.1\Discrete-Mathematics-Project.runtimeconfig.dev.json
+C:\Users\Sadeghi\Desktop\My_Project\Discrete-Mathematics-Project\Discrete-Mathematics-Project\bin\Debug\netcoreapp2.1\Discrete-Mathematics-Project.dll
+C:\Users\Sadeghi\Desktop\My_Project\Discrete-Mathematics-Project\Discrete-Mathematics-Project\bin\Debug\netcoreapp2.1\Discrete-Mathematics-Project.pdb
+C:\Users\Sadeghi\Desktop\My_Project\Discrete-Mathematics-Project\Discrete-Mathematics-Project\obj\Debug\netcoreapp2.1\Discrete-Mathematics-Project.csprojAssemblyReference.cache
+C:\Users\Sadeghi\Desktop\My_Project\Discrete-Mathematics-Project\Discrete-Mathematics-Project\obj\Debug\netcoreapp2.1\Discrete-Mathematics-Project.csproj.CoreCompileInputs.cache
+C:\Users\Sadeghi\Desktop\My_Project\Discrete-Mathematics-Project\Discrete-Mathematics-Project\obj\Debug\netcoreapp2.1\Discrete-Mathematics-Project.AssemblyInfoInputs.cache
+C:\Users\Sadeghi\Desktop\My_Project\Discrete-Mathematics-Project\Discrete-Mathematics-Project\obj\Debug\netcoreapp2.1\Discrete-Mathematics-Project.AssemblyInfo.cs
+C:\Users\Sadeghi\Desktop\My_Project\Discrete-Mathematics-Project\Discrete-Mathematics-Project\obj\Debug\netcoreapp2.1\Discrete-Mathematics-Project.dll
+C:\Users\Sadeghi\Desktop\My_Project\Discrete-Mathematics-Project\Discrete-Mathematics-Project\obj\Debug\netcoreapp2.1\Discrete-Mathematics-Project.pdb
