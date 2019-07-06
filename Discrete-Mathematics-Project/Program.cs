@@ -145,6 +145,7 @@ namespace Discrete_Mathematics_Project
                         if (Row != Column && Value>=0)
                         {
                             Matrix[Row, Column] = Value;
+                            Matrix[Column, Row] = Value;
                         }
                         else if (Row==Column)
                         {
