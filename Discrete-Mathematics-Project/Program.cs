@@ -123,6 +123,7 @@ namespace Discrete_Mathematics_Project
                 Console.WriteLine("For exampel if you want change second row and first column and your value is 4 enter : ");
                 Console.WriteLine("2 1 4 \n");
                 Console.WriteLine("Note that you CAN'T change the original diameter of the matrix.");
+                Console.WriteLine("Note that you CAN'T enter a negative number.");
                 Console.WriteLine("When the matrix is correct, enter yes");
                 Console.WriteLine();
                 Display(Matrix, n, n);
@@ -141,14 +142,20 @@ namespace Discrete_Mathematics_Project
                         int Row = Convert.ToInt32(UserNumber[0]) - 1;
                         int Column = Convert.ToInt32(UserNumber[1]) - 1;
                         int Value = Convert.ToInt32(UserNumber[2]);
-                        if (Row != Column)
+                        if (Row != Column && Value>=0)
                         {
                             Matrix[Row, Column] = Value;
                         }
-                        else
+                        else if (Row==Column)
                         {
                             Console.Clear();
                             Console.WriteLine("Note that you CAN'T change the original diameter of the matrix.");
+                            Console.ReadKey();
+                        }
+                        else if(Value<0)
+                        {
+                            Console.Clear();
+                            Console.WriteLine("Note that you CAN'T enter a negative number.");
                             Console.ReadKey();
                         }
                     }
@@ -226,7 +233,7 @@ namespace Discrete_Mathematics_Project
             {
                 for (int j = 0; j < Vertex; j++)
                 {
-                    if (i == j)
+                    if (i == j || Matrix[i, j] == 0)
                     {
                         Matrix[i, j] = INF;
                     }
@@ -271,7 +278,7 @@ namespace Discrete_Mathematics_Project
             {
                 for (int j = 0; j < Vertex; j++)
                 {
-                    if (i == j)
+                    if (i == j || Matrix[i, j]==INF)
                     {
                         Matrix[i, j] = 0;
                     }
